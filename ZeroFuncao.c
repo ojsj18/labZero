@@ -5,8 +5,16 @@
 #include "ZeroFuncao.h"
 
 double bisseccao (Polinomio p, double a, double b, double eps,
-	       int *it, double *raiz)
+	       		int *it, double *raiz)
 {
+
+
+
+
+
+
+
+
 
 }
 
